@@ -23,13 +23,13 @@ const Services = () => {
         <div className="relative">
           <div className="relative z-1 flex items-center h-[39rem] mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]">
             <div className="absolute top-0 left-0 w-full h-full pointer-events-none md:w-3/5 xl:w-auto">
-              <img
+              {/* <img
                 className="w-full h-full object-cover md:object-right"
                 width={800}
                 alt="Smartest AI"
                 height={730}
                 src={service1}
-              />
+              /> */}
             </div>
 
             <div className="relative z-1 max-w-[17rem] ml-auto">
